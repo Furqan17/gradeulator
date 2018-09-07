@@ -1,2 +1,0 @@
-# gradeulator
-soon™
