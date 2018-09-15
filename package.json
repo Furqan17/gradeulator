@@ -1,0 +1,19 @@
+{
+  "name": "gradeulator",
+  "version": "1.0.0",
+  "description": "personal desktop grade calculator",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Furqan17",
+  "license": "MIT",
+  "dependencies": {
+    "bulma": "^0.7.1",
+    "electron": "^2.0.8",
+    "gulp": "^4.0.0"
+  },
+  "devDependencies": {
+    "electron-reload": "^1.2.5"
+  }
+}
