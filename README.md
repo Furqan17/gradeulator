@@ -6,3 +6,4 @@
 <p align="center"> <b> a desktop grade-calculator </b> </p>
 
 ## :zap: Installation
+Gradeulator **requires** _nodejs_. If you don't have it already you can download it [here.](https://nodejs.org/en/) 
