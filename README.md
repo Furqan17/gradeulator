@@ -4,3 +4,5 @@
 </h1>
 
 <p align="center"> <b> a desktop grade-calculator application </b> </p>
+
+## :zap: Installation
