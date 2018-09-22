@@ -8,6 +8,6 @@
 ## :zap: Installation
 Gradeulator **requires** _nodejs_. If you don't have it already you can download it [here.](https://nodejs.org/en/)  
 **1.** Fork (or clone) this repository  
-**2.** clone and extract the zip  
-**3.** `cd` into the repo  
+**2.** Clone the repository and extract the zip file  
+**3.** `cd` into the repo   
 
