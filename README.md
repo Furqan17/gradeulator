@@ -9,5 +9,7 @@
 Gradeulator **requires** _nodejs_. If you don't have it already you can download it [here.](https://nodejs.org/en/)  
 **1.** Fork (or clone) this repository  
 **2.** Clone the repository and extract the zip file  
-**3.** Using a terminal, `cd` into the repository
+**3.** Using a terminal, `cd` into the file repository  
+**4.** Run `npm install` to install the dependencies *(dependencies are listed below)*  
+**5.** Run `npm start` to launch **gradeulator**
 
