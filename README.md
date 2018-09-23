@@ -6,7 +6,7 @@
 <p align="center"> <b> a desktop grade-calculator </b> </p>
 
 <p align="center">
-  <a href="https://electronjs.org/"><img src="https://img.shields.io/badge/electron-2.0.8-blue.svg"></a>
+  <a href="https://electronjs.org/"><img src="https://img.shields.io/badge/electron-2.0.8-8240ac.svg"></a>
   <a href="https://github.com/Furqan17/gradeulator/blob/master/package.json"><img src="https://img.shields.io/badge/version-1.0.1-red.svg"></a>
   <a href="https://technet.microsoft.com/en-us/library/bb496995.aspx"><img src="https://img.shields.io/badge/platform(s)-win64%20%7C%20osx-brightgreen.svg" alt="ver"></a>
   <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/license-MIT-ff69b4.svg"></a>
