@@ -5,6 +5,10 @@
 
 <p align="center"> <b> a desktop grade-calculator </b> </p>
 
+<p align="center">
+  <a href="https://electronjs.org/"><img src="https://img.shields.io/badge/electron-2.0.8-blue.svg"></a>
+</p>
+
 ## :zap: Installation
 Gradeulator **requires** _nodejs_. If you don't have it already you can download it [here.](https://nodejs.org/en/)  
 **1.** Fork (or clone) this repository  
