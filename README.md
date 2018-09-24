@@ -20,3 +20,8 @@ Gradeulator **requires** _nodejs_. If you don't have it already you can download
 **4.** Run `npm install` to install the dependencies *(dependencies are listed below)*  
 **5.** Run `npm start` to launch **gradeulator**
 
+<p align="center"> ...
+  <br>2018 <strong>Furqan17</strong>
+  <br> Licensed under the <a href="https://github.com/Furqan17/crypto-desk/blob/master/LICENSE">MIT License</a>
+</p>
+
