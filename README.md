@@ -20,6 +20,8 @@ Gradeulator **requires** _nodejs_ (and aditionally npm). If you don't have it al
 **4.** Run `npm install` to install the dependencies *(dependencies are listed below)*  
 **5.** Run `npm start` to launch **gradeulator**
 
+## :open_file_folder: Dependencies
+
 ## :heavy_exclamation_mark: To-Do List
 A list of components to *(eventually)* add.
 - [ ] Implement webapp
