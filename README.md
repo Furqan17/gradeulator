@@ -13,7 +13,7 @@
 </p>
 
 <div align="center">
-  <a href="https://github.com/furqan17/gradeulator">
+  <a href="https://raw.githubusercontent.com/Furqan17/gradeulator/master/media/gradulator%20screenshots/screenshot.PNG">
     <img src="https://raw.githubusercontent.com/Furqan17/gradeulator/master/media/gradulator%20screenshots/screenshot.PNG">
   </a>
 </div>
