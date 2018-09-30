@@ -12,6 +12,12 @@
   <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/license-MIT-ff69b4.svg"></a>
 </p>
 
+<div align="center">
+  <a href="https://raw.githubusercontent.com/Furqan17/gradeulator/master/media/gradeulator-src/calculate-purple-bg.PNG">
+    <img src="https://raw.githubusercontent.com/Furqan17/gradeulator/master/media/gradeulator-src/calculate-purple-bg.PNG">
+  </a>
+</div>
+
 ## :zap: Installation
 Gradeulator **requires** _nodejs_ (and aditionally npm). If you don't have it already you can download it [here.](https://nodejs.org/en/)   
 **1.** Fork (or clone) this repository  
