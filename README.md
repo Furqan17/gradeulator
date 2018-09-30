@@ -36,7 +36,7 @@ A list of components to *(eventually)* add.
 - [ ] Implement webapp
 
 <p align="center"> ...
-  <br>2018 <strong>Furqan17</strong>
+  <br>2018 <a href="https://github.com/Furqan17"><strong>Furqan17</strong></a>
   <br> Licensed under the <a href="https://github.com/Furqan17/crypto-desk/blob/master/LICENSE">MIT License</a>
 </p>
 
