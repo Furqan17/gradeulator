@@ -31,6 +31,8 @@ This application is built using **HTML/CSS** and with **[Bulma](https://bulma.io
 
 ## :wrench: Build Customization
 
+#### 1.) App responsiveness
+
 ## :heavy_exclamation_mark: To-Do List
 A list of components to *(eventually)* add.
 - [ ] Implement webapp
