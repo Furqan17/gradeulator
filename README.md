@@ -19,7 +19,9 @@
 </div>
 
 ## :zap: Installation
-Gradeulator **requires** _nodejs_ (and aditionally npm). If you don't have it already you can download it [here.](https://nodejs.org/en/)   
+Gradeulator is in the final stages of the packaging process, but for now you can open gradeulator using node.  
+  
+gradeulator **requires** _nodejs_ (and aditionally npm). If you don't have it already you can download it [here.](https://nodejs.org/en/)   
 **1.** Fork (or clone) this repository  
 **2.** Clone the repository and extract the zip file  
 **3.** Using a terminal, `cd` into the file repository  
