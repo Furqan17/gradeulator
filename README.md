@@ -29,7 +29,7 @@ Gradeulator **requires** _nodejs_ (and aditionally npm). If you don't have it al
 ## :open_file_folder: Dependencies
 This application is built using **HTML/CSS** and with **[Bulma](https://bulma.io/)**
 
-- **[Electron:](https://electronjs.org)**
+- **[Electron:](https://electronjs.org)** *(from their [website](https://electronjs.org/docs/tutorial/about))* "is an open source library developed by GitHub for building cross-platform desktop applications with HTML, CSS, and JavaScript. Electron accomplishes this by combining [Chromium](https://www.chromium.org/Home) and [Node.js](https://nodejs.org/en/) into a single runtime and apps can be packaged for Mac, Windows, and Linux."
 
 ## :wrench: Build Customization
 
