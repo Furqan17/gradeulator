@@ -29,6 +29,8 @@ Gradeulator **requires** _nodejs_ (and aditionally npm). If you don't have it al
 ## :open_file_folder: Dependencies
 This application is built using **HTML/CSS** and with **[Bulma](https://bulma.io/)**
 
+- **[Electron:](https://electronjs.org)**
+
 ## :wrench: Build Customization
 
 #### 1.) App responsiveness
