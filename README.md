@@ -34,6 +34,7 @@ This application is built using **HTML/CSS** and with **[Bulma](https://bulma.io
 ## :wrench: Build Customization
 
 #### 1.) App responsiveness
+This app was designed with a mobile first approach. The application is responsive and you can resize the app to your liking.
 
 ## :heavy_exclamation_mark: To-Do List
 A list of components to *(eventually)* add.
