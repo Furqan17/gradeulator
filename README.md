@@ -37,6 +37,10 @@ This application is built using **HTML/CSS** and with **[Bulma](https://bulma.io
 
 #### 1.) App responsiveness
 This app was designed with a mobile first approach. The application is responsive and you can resize the app to your liking.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Furqan17/gradeulator/master/media/gradeulator-src/white-bg/responsive-white-bg.PNG">
+</p>
+
 
 ## :heavy_exclamation_mark: To-Do List
 A list of components to *(eventually)* add.
