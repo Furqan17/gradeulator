@@ -42,7 +42,8 @@ This app was designed with a *mobile first* approach. The application is respons
 </p>
 
 **Note:** Electron allows you to set different starting sizes for your desktop applications, if you wish to change the app size follow the instructions below:  
-**1.** Navigate to and open `main.js`  
+**1.** Navigate to and open *main.js*   
+**2.** Find and edit the `createWindow` function
 
 
 ## :heavy_exclamation_mark: To-Do List
