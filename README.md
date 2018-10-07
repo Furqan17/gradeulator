@@ -44,6 +44,10 @@ This app was designed with a *mobile first* approach. The application is respons
 **Note:** Electron allows you to set different starting sizes for your desktop applications, if you wish to change the app size follow the instructions below:  
 **1.** Navigate to and open *main.js*   
 **2.** Find and edit the `createWindow` function
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Furqan17/gradeulator/master/media/gradeulator-src/resize-mainjs.png">
+</p>
+                                                                                                               
 
 
 ## :heavy_exclamation_mark: To-Do List
