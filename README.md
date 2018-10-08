@@ -33,6 +33,9 @@ This application is built using **HTML/CSS** and with **[Bulma](https://bulma.io
 
 - **[Electron:](https://electronjs.org)** *(from their [website](https://electronjs.org/docs/tutorial/about))* "is an open source library developed by GitHub for building cross-platform desktop applications with HTML, CSS, and JavaScript. Electron accomplishes this by combining [Chromium](https://www.chromium.org/Home) and [Node.js](https://nodejs.org/en/) into a single runtime and apps can be packaged for Mac, Windows, and Linux."
 
+## :heavy_division_sign: Calculating Grades
+**Gradeulator** is *essentially* a grade calculator, It takes in inputs of numbers with grades & weights and outputs a final score. Heres the process of how I coded that into a desktop application.
+
 ## :wrench: Build Customization
 
 #### 1.) App responsiveness
