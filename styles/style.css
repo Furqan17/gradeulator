@@ -1,0 +1,28 @@
+html { 
+    overflow-y: auto; 
+}
+
+.heart-symbol {
+    margin: 0 .25em;
+}
+
+ .heart-animation {
+	animation-name: heart;
+	animation-direction: alternate;
+	animation-duration: 2.5s;
+	animation-iteration-count: infinite;	
+}
+
+@keyframes heart {
+	0% { color: rgb(255, 0, 0); }
+	10% { color: rgb(255, 208, 0) }
+	20% { color: rgb(255, 251, 0) }
+	30% { color: rgb(0, 255, 64) }
+	40% { color: rgb(0, 255, 179) }
+	50% { color: rgb(0, 204, 255) }
+	60% { color: rgb(0, 60, 255) }
+	70% { color: rgb(89, 0, 255) }
+	80% { color: rgb(174, 0, 255) }
+	90% { color: rgb(255, 0, 157) }
+    100% { color: rgb(255, 0, 85) }
+}
