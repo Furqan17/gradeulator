@@ -47,9 +47,9 @@ This app was designed with a *mobile first* approach. The application is respons
 <p align="center">
   <img src="https://raw.githubusercontent.com/Furqan17/gradeulator/master/media/gradeulator-src/resize-mainjs.png">
 </p>
-                                                                                                               
 
-
+**3.** You are now able to edit the minimum/maxium height/width.
+                                                                                                             
 ## :heavy_exclamation_mark: To-Do List
 A list of components to *(eventually)* add.
 - [ ] Implement app functions on a website  
