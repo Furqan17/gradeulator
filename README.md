@@ -36,6 +36,8 @@ This application is built using **HTML/CSS** and with **[Bulma](https://bulma.io
 ## :heavy_division_sign: Calculating Grades
 **Gradeulator** is *essentially* a grade calculator, It takes in inputs of numbers with grades & weights and outputs a final score. Heres the process of how I coded that into a desktop application.
 
+Gradeulator was inspired by the use of constantly calculating grades using numerous grade calculator websites (my favourite being **[this one.](http://www.benegg.net/grade_calculator.html)**)
+
 ## :wrench: Build Customization
 
 #### 1.) App responsiveness
