@@ -57,8 +57,9 @@ This app was designed with a *mobile first* approach. The application is respons
                                                                                                              
 ## :heavy_exclamation_mark: To-Do List
 A list of components to *(eventually)* add.
+- [x] Fix list tabbing error
 - [ ] Implement app functions on a website  
-- [ ] Fix list tabbing error
+
 
 <p align="center"> ...
   <br>2018 <a href="https://github.com/Furqan17"><strong>Furqan17</strong></a>
