@@ -38,6 +38,8 @@ This application is built using **HTML/CSS** and with **[Bulma](https://bulma.io
 
 Gradeulator was inspired by the use of constantly calculating grades using numerous grade calculator websites (my favourite being **[this one.](http://www.benegg.net/grade_calculator.html)**)
 
+**1. Non-numeric Inputs** 
+
 ## :wrench: Build Customization
 
 #### 1.) App responsiveness
