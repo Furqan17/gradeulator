@@ -38,7 +38,8 @@ This application is built using **HTML/CSS** and with **[Bulma](https://bulma.io
 
 Gradeulator was inspired by the use of constantly calculating grades using numerous grade calculator websites (my favourite being **[this one.](http://www.benegg.net/grade_calculator.html)**)
 
-**1. Non-numeric Inputs** 
+**1. Non-numeric Inputs**  
+The first challenge of gradeulator was tackling the non-numeric inputs from the user. There were two *solutions* to this problem. The first solution I thought of was to create a function which goes through all the inputs and remove them if they are non-numeric. This would be done using **Javascripts** built in methods.
 
 ## :wrench: Build Customization
 
