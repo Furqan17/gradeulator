@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="media/gradeulator%20icon/gradeulator.png" width="25%">
+  <img src="media/gradeulator%20icon/gradeulator.png" title="The gradeulator Logo width="25%">
   <br> gradeulator
 </h1>
 
@@ -42,7 +42,7 @@ Gradeulator was inspired by the use of constantly calculating grades using numer
 The first challenge of gradeulator was tackling the non-numeric inputs from the user. There were two *solutions* to this problem. The first solution I thought of was to create a function which goes through all the inputs and remove them if they are non-numeric. This would be done using **JavaScripts** built in methods. After a quick google search I found out the methods I needed (source: **[google](https://www.google.ca/)**): 
 <p align="center">
   <a href="http://bfy.tw/KSjZ">
-  <img src="https://raw.githubusercontent.com/Furqan17/gradeulator/master/media-calculate/javascript-google-search.PNG" title="google-search">
+  <img src="https://raw.githubusercontent.com/Furqan17/gradeulator/master/media-calculate/javascript-google-search.PNG" title="just a google search">
   </a>
 </p>
 
@@ -51,14 +51,14 @@ The first challenge of gradeulator was tackling the non-numeric inputs from the 
 #### 1.) App responsiveness
 This app was designed with a *mobile first* approach. The application is responsive and you can resize the app to your liking.
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Furqan17/gradeulator/master/media/gradeulator-src/white-bg/responsive-white-bg.PNG">
+  <img src="https://raw.githubusercontent.com/Furqan17/gradeulator/master/media/gradeulator-src/white-bg/responsive-white-bg.PNG" title="Responsive gradeulator">
 </p>
 
 **Note:** Electron allows you to set different starting sizes for your desktop applications, if you wish to change the app size follow the instructions below:  
 **1.** Navigate to and open *main.js*   
 **2.** Find and edit the `createWindow` function
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Furqan17/gradeulator/master/media/gradeulator-src/resize-mainjs.png">
+  <img src="https://raw.githubusercontent.com/Furqan17/gradeulator/master/media/gradeulator-src/resize-mainjs.png" title="The file to edit">
 </p>
 
 **3.** You are now able to edit the minimum/maxium height/width.
