@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="media/gradeulator%20icon/gradeulator.png" title="The gradeulator Logo width="25%">
+  <img src="media/gradeulator%20icon/gradeulator.png" title="The gradeulator Logo" width="25%">
   <br> gradeulator
 </h1>
 
