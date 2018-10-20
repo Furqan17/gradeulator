@@ -41,7 +41,7 @@ Gradeulator was inspired by the use of constantly calculating grades using numer
 **1. Non-numeric Inputs**  
 The first challenge of gradeulator was tackling the non-numeric inputs from the user. There were two *solutions* to this problem. The first solution I thought of was to create a function which goes through all the inputs and remove them if they are non-numeric. This would be done using **JavaScripts** built in methods. After a quick google search I found out the methods I needed (source: **[google](https://www.google.ca/)**): 
 <p align="center">
-  <a href="http://bfy.tw/KSjZ" target="_blank">
+  <a href="http://bfy.tw/KSjZ">
   <img src="https://raw.githubusercontent.com/Furqan17/gradeulator/master/media-calculate/javascript-google-search.PNG" title="google-search">
   </a>
 </p>
