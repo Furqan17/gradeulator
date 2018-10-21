@@ -18,8 +18,10 @@
   </a>
 </div>
 
-## :zap: Installation
-Gradeulator is in the **final stages** of the packaging process and will be available to download *(soon™)*, but for now you can open gradeulator using *node*.  
+## :zap: Installation  
+**Update:** Gradeulator was recently ported to a website, click **[here](https://furqan17.github.io/gradeulator)** to check it out. 
+
+Gradeulator is in the **final stages** of the packaging process and will be available to download *(soon™)*, but for now you can open gradeulator using *node*. 
   
 gradeulator **requires** _nodejs_ (and aditionally npm). If you don't have it already you can download it **[here.](https://nodejs.org/en/)**  
 **1.** Fork (or clone) this repository  
