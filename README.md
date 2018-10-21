@@ -1,3 +1,4 @@
 ## gradeulator - website
-this is the readme for gradeulator website branch
+the web port of gradeulator is now online  
+click **[this link](https://furqan17.github.io/gradeulator)** to check it out.
 
