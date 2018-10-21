@@ -1,0 +1,8 @@
+html { 
+    overflow-y: auto; 
+}
+
+.heart-symbol {
+    margin: 0 .25em;
+    color: red;
+}
