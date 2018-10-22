@@ -19,7 +19,7 @@
 </div>
 
 ## :zap: Installation  
-**Update:** Gradeulator was recently ported to a website, click **[here](https://furqan17.github.io/gradeulator)** to check it out. 
+:tada: **Update:** Gradeulator was recently ported to a website, click **[here](https://furqan17.github.io/gradeulator)** to check it out. :tada:
 
 Gradeulator is in the **final stages** of the packaging process and will be available to download *(soon™)*, but for now you can open gradeulator using *node*. 
   
