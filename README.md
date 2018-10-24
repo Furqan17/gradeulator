@@ -67,7 +67,7 @@ This app was designed with a *mobile first* approach. The application is respons
                                                                                                              
 ## :heavy_exclamation_mark: To-Do List
 A list of components to *(eventually)* add.
-- [x] Fix list tabbing error
+- [x] Fix list tabbing error (Fixed **October, 9th, 2018**)
 - [ ] Implement app functions on a website  
 
 
