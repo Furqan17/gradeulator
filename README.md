@@ -47,7 +47,8 @@ The first challenge of gradeulator was tackling the non-numeric inputs from the 
   <img src="https://raw.githubusercontent.com/Furqan17/gradeulator/master/media-calculate/javascript-google-search.PNG" title="just a google search">
   </a>
 </p>
-The second solution was to restrict the inputs from the user with controlled keyboard inputs. In the final version of Gradeulator you are only able to enter numeric inputs from **0 - 9**. All other inputs such as letters(a,b,c) and characters($^&) will not be registered into the form.
+
+The second solution was to restrict the inputs from the user with controlled keyboard inputs. In the final version of Gradeulator you are only able to enter numeric inputs from **0 - 9**. All other inputs such as letters(a,b,c) and characters($^&) will not be registered into the form.  
 ## :wrench: Build Customization
 
 #### 1.) App responsiveness
