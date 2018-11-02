@@ -48,7 +48,7 @@ The first challenge of gradeulator was tackling the non-numeric inputs from the 
   </a>
 </p>
 
-The second solution was to restrict the inputs from the user with controlled keyboard inputs. In the final version of Gradeulator you are only able to enter numeric inputs from **0 - 9**. All other inputs such as letters(a,b,c) and characters($^&) will not be registered into the form.  (**note:** Upon further usage of gradeulator, this solution restricts the user from also using keyboard shorts cuts such as ctrl+a to select all or ctrl -> to move the cursor)  
+The second solution was to restrict the inputs from the user with controlled keyboard inputs. In the final version of Gradeulator you are only able to enter numeric inputs from **0 - 9**. All other inputs such as letters(a,b,c) and characters($^&) will not be registered into the form.  (**note:** Upon further usage of gradeulator, this solution restricts the user from also using keyboard shorts cuts such as **ctrl+a** to select all or **ctrl + ->** to move the cursor)  
 
 ## :wrench: Build Customization
 
