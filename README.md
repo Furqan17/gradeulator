@@ -57,6 +57,8 @@ To allow numeric input from 0 - 9, the onkeypress method ```onkeypress="return i
   </a>
 </p>
 
+**2. Organization of Grades**  
+
 ## :wrench: Build Customization
 
 #### 1.) App responsiveness
