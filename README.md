@@ -50,7 +50,7 @@ The first challenge of gradeulator was tackling the non-numeric inputs from the 
 
 The second solution was to restrict the inputs from the user with controlled keyboard inputs. In the final version of Gradeulator you are only able to enter numeric inputs from **0 - 9**. All other inputs such as letters(a,b,c) and characters($^&) will not be registered into the form.  (**note:** Upon further usage of gradeulator, this solution restricts the user from also using keyboard shorts cuts such as **ctrl+a** to select all or **ctrl + ->** to move the cursor)  
 
-To allow numeric input from 0 - 9, the onkeypress method ```onkeypress="return isNumberKey(event)" ``` is inserted to call the ```IsNumberKey()``` method on every input field.  
+To allow numeric input from 0 - 9, the onkeypress method ```onkeypress="return isNumberKey(event)"``` is inserted to call the ```IsNumberKey()``` method on every input field.  
 <p align="center">
   <a href="https://stackoverflow.com/questions/19966417/prevent-typing-non-numeric-in-input-type-number">
     <img src="https://raw.githubusercontent.com/Furqan17/gradeulator/master/media-calculate/isNumberKey-function-setiTheme.png" title="isNumberKey()">
