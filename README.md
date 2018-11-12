@@ -72,6 +72,15 @@ function get_grades() {
 ```
 `get_grades()` collects all of the inputs from the inputs forms, appends them to a list and returns the list to the variable `dirty_list` *(dirty in this context means a list that has not been cleaned)*  
 Next, the grades are cleaned *(cleaned means to remove unwanted spaces and **no entry inputs**)* 
+```javascript
+// this function essentially gets rid of empty spaces and no entry inputs.
+function clean_grades(list) {
+
+    // this line gets rid of empty spaces
+    clean_list = list.filter(Boolean);
+    return clean_list;
+}
+```
 
 
 ## :wrench: Build Customization
