@@ -58,7 +58,9 @@ To allow numeric input from 0 - 9, the onkeypress method ```onkeypress="return i
 </p>
 
 **2. Organization of Grades**  
-User grades and weightings are inputed and submitted via the calculate button. The Calculate Button is referenced from the DOM and initialized as a variable.
+User grades and weightings are inputed and submitted via the calculate button. The Calculate Button is referenced from the DOM and initialized as a variable.  
+When the calculate button is clicked, the first function called is `get_grades()`
+
 
 ## :wrench: Build Customization
 
