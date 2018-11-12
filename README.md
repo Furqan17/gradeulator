@@ -70,7 +70,8 @@ function get_grades() {
     return list;
 }
 ```
-`get_grades()` collects all of the inputs from the inputs forms, appends them to a list and returns the list to the variable `dirty_list` *(dirty in this context means a list that has not been cleaned by the clean function)*
+`get_grades()` collects all of the inputs from the inputs forms, appends them to a list and returns the list to the variable `dirty_list` *(dirty in this context means a list that has not been cleaned)*  
+Next, the grades are cleaned *(cleaned means to remove unwanted spaces and **no entry inputs**)* 
 
 
 ## :wrench: Build Customization
