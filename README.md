@@ -82,7 +82,7 @@ function clean_grades(list) {
     return clean_list;
 }
 ```
-**Note:** The clean_grades() function consists of just one method and it certainly does not have to be a function of its own, *however* the seperation of clean_grades and dirty_grades was convenient during the calculation process.  
+**Note:** The `clean_grades()` function consists of just one method and it certainly does not have to be a function of its own, *however* the seperation of `clean_grades()` and `dirty_grades()` was convenient during the calculation process.  
 
 After the grades are extracted and *cleaned*, the list containing the grades can be represented with the image below.
 
