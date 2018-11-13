@@ -71,6 +71,7 @@ function get_grades() {
 }
 ```
 `get_grades()` collects all of the inputs from the inputs forms, appends them to a list and returns the list to the variable `dirty_list` *(dirty in this context means a list that has not been cleaned)*  
+
 Next, the grades are cleaned *(cleaned means to remove unwanted spaces and **no entry inputs**)* 
 ```javascript
 // this function essentially gets rid of empty spaces and no entry inputs.
@@ -81,7 +82,8 @@ function clean_grades(list) {
     return clean_list;
 }
 ```
-**Note:** clean_grades consists of just one method and it did not have to be a function of its own, however the seperation of clean_grades and dirty_grades was convenient when calculating grades.  
+**Note:** The clean_grades() function consists of just one method and it certainly does not have to be a function of its own, *however* the seperation of clean_grades and dirty_grades was convenient during the calculation process.  
+
 After the grades are extracted and *cleaned*, the list containing the grades can be represented with the image below.
 
 
