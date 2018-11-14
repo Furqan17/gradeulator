@@ -105,6 +105,12 @@ This app was designed with a *mobile first* approach. The application is respons
 **Note:** Electron allows you to set different starting sizes for your desktop applications, if you wish to change the app size follow the instructions below:  
 **1.** Navigate to and open *main.js*   
 **2.** Find and edit the `createWindow` function
+```javascript
+function createWindow () {
+    // Create the browser window.
+    win = new BrowserWindow({width: 1200, minWidth:500, height: 650, minHeight:500, frame: true, icon: "images/gradeulator.png"})
+    win.setMenu(null);
+```
 
 
 **3.** You are now able to edit the minimum/maxium height/width.
