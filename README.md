@@ -108,7 +108,13 @@ This app was designed with a *mobile first* approach. The application is respons
 ```javascript
 function createWindow () {
     // Create the browser window.
-    win = new BrowserWindow({width: 1200, minWidth:500, height: 650, minHeight:500, frame: true, icon: "images/gradeulator.png"})
+    win = new BrowserWindow({
+        width: 1200, 
+        minWidth:500, 
+        height: 650, 
+        minHeight:500, 
+        frame: true, 
+        icon: "images/gradeulator.png"})
     win.setMenu(null);
 ```
 
