@@ -51,6 +51,18 @@ The first challenge of gradeulator was tackling the non-numeric inputs from the 
 The second solution was to restrict the inputs from the user with controlled keyboard inputs. In the final version of Gradeulator you are only able to enter numeric inputs from **0 - 9**. All other inputs such as letters(a,b,c) and characters($^&) will not be registered into the form.  (**note:** Upon further usage of gradeulator, this solution restricts the user from also using keyboard shorts cuts such as **ctrl+a** to select all or **ctrl + ->** to move the cursor)  
 
 To allow numeric input from 0 - 9, the onkeypress method ```onkeypress="return isNumberKey(event)"``` is inserted to call the ```IsNumberKey()``` method on every input field.  
+```javascript
+// this function is used to prevent users from entering non-numeric characters.
+// this solution is much easier than going through random user inputs.
+function isNumberKey(evt) {
+    var charCode = (evt.which) ? evt.which : event.keyCode
+    if (charCode > 31 && (charCode < 48 || charCode > 57)) {
+        return false;
+    } else {
+    return true; 
+    }
+};
+```
 
 **2. Organization of Grades**  
 User grades and weightings are inputed and submitted via the calculate button. The Calculate Button is referenced from the DOM and initialized as a variable.  
