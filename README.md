@@ -92,6 +92,9 @@ function clean_grades(list) {
 **Note:** The `clean_grades()` function consists of just one method and it certainly does not have to be a function of its own, *however* the seperation of `clean_grades()` and `dirty_grades()` was convenient during the calculation process.  
 
 After the grades are extracted and *cleaned*, the list containing the grades can be represented with the image below.
+<p align="left">
+  <img src="https://raw.githubusercontent.com/Furqan17/gradeulator/master/media-calculate/example-input.PNG">
+</p>
 
 
 ## :wrench: Build Customization
