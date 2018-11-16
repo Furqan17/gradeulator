@@ -92,8 +92,10 @@ function clean_grades(list) {
 **Note:** The `clean_grades()` function consists of just one method and it certainly does not have to be a function of its own, *however* the seperation of `clean_grades()` and `dirty_grades()` was convenient during the calculation process.  
 
 After the grades are extracted and *cleaned*, the list containing the grades can be represented with the image below.
+
+The Image below is a potential sample list from index.js, The grades are the even numbers index **(0, 2, 4)** and the weightings are the odd numbers **(1, 3, 5)** respectively. 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/Furqan17/gradeulator/master/media-calculate/example-input.PNG">
+  <img src="https://raw.githubusercontent.com/Furqan17/gradeulator/master/media-calculate/example-input.PNG" title="Sample Input">
 </p>
 
 
