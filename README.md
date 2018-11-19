@@ -95,7 +95,7 @@ After the grades are extracted and *cleaned*, the list containing the grades can
 
 The Image below is a potential sample list from index.js, The grades are the even numbers index **(0, 2, 4)** and the weightings are the odd numbers **(1, 3, 5)**. 
 
-In the context of the image below, The grades are 90.5, 75, and 82.5. The weighting for each grade is 25%, 45%, and 30% respectively.
+In the context of the image below, The grades are **90.5, 75, and 82.5**. The weighting for each grade is **25%, 45%, and 30%** respectively.
 <p align="left">
   <img src="https://raw.githubusercontent.com/Furqan17/gradeulator/master/media-calculate/example-input.PNG" title="Sample Input">
 </p>
